@@ -1,6 +1,10 @@
 # AirBnB_clone_v2     ------- HBNB
 AirBnB clone - MySQL  (Group project Python OOP Back-end SQL MySQL ORM SQLAlchemy)
 
+
+![image](https://github.com/Michafolab/AirBnB_clone_v2/assets/117805721/ef9ab2f4-ec63-4bae-9f1a-a2df2e11c75f)
+
+
 This is the console /command interpreter for the Holberton Airbnb clone project. The console can be used to store objects in and retrieve objects from a JSON.
 
 **Supported classes:**
